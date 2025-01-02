@@ -62,6 +62,6 @@ $this->params['breadcrumbs'][] = $this->title;
 
     /* Memberikan hover effect pada input dan select */
     .form-control:hover, .select2-container:hover {
-        border-color: rgb(0, 3, 169); /* Warna hijau cerah saat hover */
+        border-color: rgb(0, 3, 179); /* Warna hijau cerah saat hover */
     }
 </style>
